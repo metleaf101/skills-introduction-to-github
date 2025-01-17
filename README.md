@@ -1,4 +1,6 @@
-<header>
+Hello, World!
+
+My nicname is metleaf101 and I am excited to begin my journey with github. <header>
 
 <!--
   <<< Author notes: Course header >>>
